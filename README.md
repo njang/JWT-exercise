@@ -7,6 +7,7 @@
 
 * Securing Node.js RESTful APIs with JSON Web Tokens ([Medium](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52))
 
+* Using JSON Web Tokens (JWTs) ([Google Cloud Internet of Things Core](https://cloud.google.com/iot/docs/how-tos/credentials/jwts#iot-core-jwt-nodejs))
 
 ## Usage
 
